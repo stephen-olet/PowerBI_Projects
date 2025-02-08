@@ -24,9 +24,6 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 ## About Me
 I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually. Visit [stephen-olet.github.io](https://stephen-olet.github.io/)
 
----
-- [<ins><b>©2025 Stephen Olet. All rights reserved</b></ins>]((https://stephen-olet.github.io/)/)
----
 Step into the dynamic world of data-driven decision-making at the PowerBI Analytics Hub. This repository serves as a centralized destination, housing a diverse collection of meticulously crafted PowerBI dashboards. Tailored for strategic decision-makers, our visualizations offer unique perspectives and insights across various datasets. Elevate your analytics journey with our comprehensive suite, delivering actionable insights and driving excellence throughout your organization.
 
 ---
@@ -45,7 +42,7 @@ Step into the dynamic world of data-driven decision-making at the PowerBI Analyt
 
 # Contributing, Usage, and Issue Reporting
 
-Thank you for considering contributing to this repository and exploring the Power BI dashboards. Your involvement is highly valued, and your contributions help enhance the overall quality of this collection. We welcome your contributions to enhance existing dashboards or propose new ideas. Please refer to the [Contribution Guidelines](CONTRIBUTING.md) for seamless collaboration.
+Thank you for considering contributing to this repository and exploring the Power BI dashboards. Your involvement is highly valued, and your contributions help enhance the overall quality of this collection. We welcome your contributions to enhance existing dashboards or propose new ideas.
 
 
 ---
@@ -59,3 +56,7 @@ I appreciate your interest in this Power BI Dashboards project and look forward 
 ---
 
 ## Linkedin: [Stephen Olet](https://www.linkedin.com/in/stephenolet/)
+
+---
+- [<ins><b>©2025 Stephen Olet. All rights reserved</b></ins>]((https://stephen-olet.github.io/)/)
+---
